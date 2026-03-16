@@ -10,10 +10,14 @@
 ---
 
 ## 👨‍💻 Hakkımda
-Aydın Adnan Menderes Üniversitesi'nde Bilgisayar Programcılığı okuyan 19 yaşında bir yazılım geliştiriciyim. Kendimi tek bir alanla kısıtlamayı sevmiyorum; **Full Stack** bir yaklaşımla mobil arayüzlerden karmaşık veritabanı mimarilerine, sunucu taraflı API'lerden donanım entegrasyonlarına kadar sistemleri uçtan uca tasarlıyorum. Şu an özellikle İzmir'de yazılım ve veritabanı alanında yeteneklerimi sergileyebileceğim staj fırsatlarıyla ilgileniyorum.
+Aydın Adnan Menderes Üniversitesi'nde Bilgisayar Programcılığı okuyan 19 yaşında  **Full Stack** bir yazılımcıyım. 
 
-Kod ekranından uzaklaştığımda yarı profesyonel portre çizimleri yapıyor, kendi kurgusal manga evrenimi tasarlıyor ve bilgisayar donanımlarıyla (kasa modifikasyonu, bakım) ilgileniyorum. İngilizceyi ana dilim gibi konuşabiliyor ve her projede teknik sınırlarımı biraz daha zorlamayı hedefliyorum.
+Yazılımcılık dışında yarı profesyonel portre çizimleri yapıyor ve bilgisayar donanımlarıyla (kasa modifikasyonu, bakım) ilgileniyorum.    
 
+<div align="right">
+  <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/resm4.jpeg" width="250" alt="Resim">
+  </div>
+  
 ### 🛠️ Teknolojik Yetkinliklerim
 - **Backend & API:** PHP (CodeIgniter, ASP.NET), C#, C++, REST API
 - **Mobil Geliştirme:** Kotlin
@@ -23,30 +27,37 @@ Kod ekranından uzaklaştığımda yarı profesyonel portre çizimleri yapıyor,
 
 ---
 
-## 🚀 Projem: LUMOS
-[cite_start]**TÜBİTAK 2209-A Destekli Araştırma Projesi** [cite: 141]
+##   LUMOS
+🚀 **TÜBİTAK 2209-A Destekli Araştırma Projesi** kapsamında gönderilmiş projem (Şu anda onay bekliyor..)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/LumosLogo.png" width="300" alt="Lumos Projesi">
 </div>
 
-[cite_start]Lumos, standart ev otomasyonlarının ötesine geçerek kullanıcı davranışlarını öğrenen ve otonom kararlar alabilen Makine Öğrenimi Tabanlı Akıllı Mekân İzleme ve Enerji Optimizasyon Sistemi'dir[cite: 152, 160]. Bu proje, bir fikrin sensör verilerinden başlayıp, veritabanına, oradan da son kullanıcının cep telefonuna nasıl ulaşacağının tam kapsamlı (Full Stack) bir örneğidir.
+Lumos, standart ev otomasyonlarının ötesine geçerek kullanıcı davranışlarını öğrenen ve otonom kararlar alabilen Makine Öğrenimi Tabanlı Akıllı Mekân İzleme ve Enerji Optimizasyon Sistemi'dir. Mevcut ev otomasyon sistemlerinin sınırlarını aşarak, enerji tüketim grafiklerini ve kullanıcı rutinlerini öğrenen bir hafızaya sahiptir. Sadece manuel kontrol sunmak yerine, toplanan veriler üzerinden şu sorulara **otonom cevaplar** arar:
 
-### 🧩 Sistemin Temel Mimari Bileşenleri
+- 🔋 *Daha fazla tasarruf için hangi cihazlar kapatılabilir?*
+- 🌡️ *Mekânda beklenmedik bir sıcaklık algılandı mı?*
+- 🚪 *Kapı veya pencere rutin dışı bir zamanda açıldı mı?*
+- 🚷 *Oda uzun süredir boş mu?*
+
+Lumos, bu soruların cevaplarıyal kullanıcısına öneriler sunan ve gerekli izinler verildiyse otonom kararlar alabilen yazılım uygulamamdır.
+
+### 🧩 Sistemin Temel Modülleri
 
 **1. Mobil Kontrol Merkezi (Kotlin) & Backend**
-- [cite_start]Kullanıcı deneyimini (UX) önceliklendiren, modüler bir Android arayüzü geliştirdim[cite: 201].
-- [cite_start]**Oda Modülü:** Ev ve iş yeri gibi farklı mekanları tek uygulamadan yönetme esnekliği sağlar[cite: 206, 207].
-- [cite_start]**Chat Modülü:** Sistem tarafından oluşturulan otonom tavsiyelerin iletildiği ve kullanıcıların iletişim kurabildiği gerçek zamanlı bir kanaldır[cite: 203, 204].
+- Kullanıcı deneyimini (UX) önceliklendiren bir Android arayüzü.
+- **Oda Modülü:** Ev ve iş yeri gibi farklı mekanları tek uygulamadan yönetme esnekliği sağlar.
+- **Chat Modülü:** Sistem tarafından oluşturulan otonom önerilerin ve kararların iletildiği, kullanıcıların iletişim kurabildiği modüldür.
 
 **2. Makine Öğrenimi ve Veri Analizi**
-- [cite_start]**Kullanım Tahmini:** Sensörlerdeki gürültüye karşı yüksek performans sunan *Random Forest* algoritmaları ile odanın doluluk analizi yapılır[cite: 231, 232].
-- [cite_start]**Sıra Dışı Olay Tespiti:** Beklenmeyen durumları yakalamak için *Isolation Forest* ve *Z-Score* yöntemleri kullanılır[cite: 234].
-- [cite_start]**Enerji Optimizasyonu:** *ARIMA / SARIMAX* zaman serisi analizleriyle enerji tüketim tahminleri oluşturulur[cite: 237].
+- **Kullanım Tahmini:** Sensörlerdeki gürültüye karşı yüksek performans sunan *Random Forest* algoritmaları ile odanın doluluk analizi yapılır.
+- **Sıra Dışı Olay Tespiti:** Beklenmeyen durumları yakalamak için *Isolation Forest* ve *Z-Score* yöntemleri kullanılır.
+- **Enerji Optimizasyonu:** *ARIMA / SARIMAX* zaman serisi analizleriyle enerji tüketim tahminleri oluşturulur.
 
 **3. Nesnelerin İnterneti (IoT) & Veri Akışı**
-- [cite_start]ESP-32 mikrodenetleyicisi ile ortamdan hareket (HC-SR501), sıcaklık/nem (DHT-22) ve duman (MQ-2) gibi anlık veriler toplanır[cite: 225, 227].
-- [cite_start]Toplanan bu veriler MSSQL veritabanına aktarılarak uygulamanın gerçek zamanlı hafızası oluşturulur[cite: 225].
+- ESP-32 mikrodenetleyicisi ile ortamdan hareket (HC-SR501), sıcaklık/nem (DHT-22) ve duman (MQ-2) gibi anlık veriler toplanır.
+- Toplanan bu veriler MSSQL veritabanına aktarılarak uygulamanın gerçek zamanlı hafızası oluşturulur.
 
 ---
 
