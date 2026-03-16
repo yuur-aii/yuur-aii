@@ -8,7 +8,7 @@
 **TÜBİTAK 2209-A Destekli Akıllı Mekân İzleme ve Enerji Optimizasyon Sistemi**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuur-aii/Android-Uygulamam-Lumos/LumosLogo.png" width="220" alt="Lumos Logo">
+  <img src="https://raw.githubusercontent.com/yuur-aii/Android-Uygulamam-Lumos/master/LumosLogo.png" width="220" alt="Lumos Logo">
 </p>
 
 Lumos; klasik akıllı ev sistemlerinden farklı olarak, **ARIMA/SARIMAX** modelleri kullanarak enerji tüketimini tahmin eden ve **Random Forest** algoritmaları ile kullanıcı rutinlerini analiz eden otonom bir sistemdir.
