@@ -27,7 +27,7 @@ Kod ekranından uzaklaştığımda yarı profesyonel portre çizimleri yapıyor,
 [cite_start]**TÜBİTAK 2209-A Destekli Araştırma Projesi** [cite: 141]
 
 <div align="center">
-  <img src="(https://raw.githubusercontent.com/yuur-aii/Android-Uygulamam-Lumos/master/LumosLogo.png)" width="300" alt="Lumos Projesi">
+  <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/LumosLogo.png" width="300" alt="Lumos Projesi">
 </div>
 
 [cite_start]Lumos, standart ev otomasyonlarının ötesine geçerek kullanıcı davranışlarını öğrenen ve otonom kararlar alabilen Makine Öğrenimi Tabanlı Akıllı Mekân İzleme ve Enerji Optimizasyon Sistemi'dir[cite: 152, 160]. Bu proje, bir fikrin sensör verilerinden başlayıp, veritabanına, oradan da son kullanıcının cep telefonuna nasıl ulaşacağının tam kapsamlı (Full Stack) bir örneğidir.
