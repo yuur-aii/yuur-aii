@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/profil.jpeg" width="160" alt="Barış Kilisli">
+  <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/profil.jpeg" width="250" alt="Barış Kilisli">
 
   # Merhaba, Ben Barış Kilisli! 👋
 
-  **Full Stack Geliştirici | Backend & Mobil Tutkunu | Bilgisayar Programcılığı Öğrencisi**
+  **Full Stack Geliştirici |  Bilgisayar Programcılığı Öğrencisi**
 </div>
 
 ---
@@ -23,7 +23,7 @@ Kod ekranından uzaklaştığımda yarı profesyonel portre çizimleri yapıyor,
 
 ---
 
-## 🚀 Amiral Gemisi Projem: LUMOS
+## 🚀 Projem: LUMOS
 [cite_start]**TÜBİTAK 2209-A Destekli Araştırma Projesi** [cite: 141]
 
 <div align="center">
