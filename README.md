@@ -61,13 +61,10 @@ Lumos, bu soruların cevaplarıyal kullanıcısına öneriler sunan ve gerekli i
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuur-aii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&border_radius=15" alt="Barış'ın İstatistikleri">
-</div>
-
----
+### Daha Fazla Detay
+Projenin teknik dökümantasyonu, devre şemaları ve kaynak kodları için 
+[![Repo Linki](https://img.shields.io/badge/Lumos_Proje_Detayları-İncele-blue?style=for-the-badge&logo=github)](https://github.com/yuur-aii/Android-Uygulamam-Lumos) 
+göz atabilirsiniz.
 
 📫 **İletişime Geçin:** [LinkedIn](https://linkedin.com/in/bariskilisli) | kilislibaris8@gmail.com
 
