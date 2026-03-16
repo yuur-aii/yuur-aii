@@ -18,7 +18,7 @@ Yazılımcılık dışında yarı profesyonel portre çizimleri yapıyor ve bilg
   <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/resm4.jpeg" width="250" alt="Resim">
   </div>
   
-### 🛠️ Teknolojik Yetkinliklerim
+### 🛠️ Teknik Bilgilerim
 - **Backend & API:** PHP (CodeIgniter, ASP.NET), C#, C++, REST API
 - **Mobil Geliştirme:** Kotlin
 - **Veritabanı:** MySQL, MSSQL, Oracle Database
