@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[PROFIL_FOTOGRAFI_LINKI]" width="160" alt="Barış Kilisli">
+  <img src="WhatsApp Image 2026-01-01 at 17.39.19" width="160" alt="Barış Kilisli">
 
   # Merhaba, Ben Barış Kilisli! 👋
 
