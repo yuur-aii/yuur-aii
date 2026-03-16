@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="yuur-aii/main/WhatsApp Image 2026-01-01 at 17.39.19.jpeg" width="160" alt="Barış Kilisli">
+  <img src="https://raw.githubusercontent.com/yuur-aii/main/WhatsApp Image 2026-01-01 at 17.39.19.jpeg" width="160" alt="Barış Kilisli">
 
   # Merhaba, Ben Barış Kilisli! 👋
 
