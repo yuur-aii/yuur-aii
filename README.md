@@ -1,6 +1,12 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuur-aii/main/WhatsApp Image 2026-01-01 at 17.39.19.jpeg" width="160" alt="Barış Kilisli">
+  <img src="<div align="center">
+  <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/profil.jpeg" width="160" alt="Barış Kilisli">
+
+  # Merhaba, Ben Barış Kilisli! 👋
+
+  **Full Stack Geliştirici | Backend & Mobil Tutkunu | Bilgisayar Programcılığı Öğrencisi**
+</div>WhatsApp Image 2026-01-01 at 17.39.19.jpeg" width="160" alt="Barış Kilisli">
 
   # Merhaba, Ben Barış Kilisli! 👋
 
