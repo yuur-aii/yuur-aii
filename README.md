@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="<div align="center">
   <img src="https://raw.githubusercontent.com/yuur-aii/yuur-aii/main/profil.jpeg" width="160" alt="Barış Kilisli">
 
   # Merhaba, Ben Barış Kilisli! 👋
